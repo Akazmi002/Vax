@@ -16,7 +16,7 @@ Displays how vaccinated a certain location is from the COVID-19, as an indicator
 
 VaxStat is built on a Django Rest Framework that uses Flutter as its frontend, as well as Google Firebase and GCP! It is powered by official data from each county in the United States. Along with the strong credibility of our data, we also are updating our data every day to ensure reliability.
 
-This project allows users to recieve access to vaccination statistics.
+
 
 
 ![image](https://user-images.githubusercontent.com/28745368/105569569-2d88e580-5d08-11eb-830e-99eed8bebf5d.png)
