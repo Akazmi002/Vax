@@ -1,6 +1,6 @@
 # VAXSTAT
 
-## Getting Started
+## Description
 
 This project allows users to recieve access to vaccination statistics.
 
