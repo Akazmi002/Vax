@@ -1,5 +1,10 @@
 # VAXSTAT
 
+![image](https://user-images.githubusercontent.com/28745368/105569569-2d88e580-5d08-11eb-830e-99eed8bebf5d.png)
+![image](https://user-images.githubusercontent.com/28745368/105569576-3ed1f200-5d08-11eb-97ab-37d21eaf741c.png)
+![image](https://user-images.githubusercontent.com/28745368/105569589-4beee100-5d08-11eb-9a83-ab8bcbdacad4.png)
+
+
 A new Flutter project.
 
 ## Getting Started
